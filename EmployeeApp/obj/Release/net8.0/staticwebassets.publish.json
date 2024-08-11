@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "P88bclv86XokLpOhroGPkQGD6/ahfyxaoGA+p+rTuEs=",
+  "Source": "EmployeeApp",
+  "BasePath": "_content/EmployeeApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmployeeApp\\wwwroot",
+      "Source": "EmployeeApp",
+      "ContentRoot": "C:\\Dumbways\\I2S Test\\.NET\\EmployeeDataApp\\EmployeeApp\\wwwroot\\",
+      "BasePath": "_content/EmployeeApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Dumbways\\I2S Test\\.NET\\EmployeeDataApp\\EmployeeApp\\wwwroot\\countries.json",
+      "SourceId": "EmployeeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dumbways\\I2S Test\\.NET\\EmployeeDataApp\\EmployeeApp\\wwwroot\\",
+      "BasePath": "_content/EmployeeApp",
+      "RelativePath": "countries.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\countries.json"
+    },
+    {
+      "Identity": "C:\\Dumbways\\I2S Test\\.NET\\EmployeeDataApp\\EmployeeApp\\wwwroot\\index.html",
+      "SourceId": "EmployeeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dumbways\\I2S Test\\.NET\\EmployeeDataApp\\EmployeeApp\\wwwroot\\",
+      "BasePath": "_content/EmployeeApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Dumbways\\I2S Test\\.NET\\EmployeeDataApp\\EmployeeApp\\wwwroot\\script.js",
+      "SourceId": "EmployeeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dumbways\\I2S Test\\.NET\\EmployeeDataApp\\EmployeeApp\\wwwroot\\",
+      "BasePath": "_content/EmployeeApp",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ]
+}

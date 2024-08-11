@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Dumbways\\I2S Test\\.NET\\EmployeeDataApp\\EmployeeApp\\wwwroot\\countries.json",
+      "PackagePath": "staticwebassets\\countries.json"
+    },
+    {
+      "Id": "C:\\Dumbways\\I2S Test\\.NET\\EmployeeDataApp\\EmployeeApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Dumbways\\I2S Test\\.NET\\EmployeeDataApp\\EmployeeApp\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmployeeApp.props",
+      "PackagePath": "build\\EmployeeApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeApp.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmployeeApp.props",
+      "PackagePath": "buildTransitive\\EmployeeApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
